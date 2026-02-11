@@ -1,21 +1,26 @@
-# QA Test Design Practice
+# QA Practice Portfolio
 
-This repository contains my practical tasks while learning Software Testing.
+This repository contains my practice tasks in Software Testing.
 
-## 📌 What is included:
+## 📌 About
 
+Here I collect practical examples while learning QA fundamentals and test design techniques.
+
+## 🧠 Techniques Practiced
+
+- Black-box testing techniques
 - Decision Table Testing
-- Test Cases
-- Checklists
-- Bug Reports (coming soon)
-
-## 🧠 Techniques Used:
-
-- Decision Table Testing
+- Logical condition analysis
 - Positive & Negative testing
-- Test Case Design
-- Basic SDLC & STLC understanding
+- Basic test case design
 
-## 🎯 Goal
+## 📂 Included Examples
 
-To build a structured QA portfolio and improve my test design skills.
+- Login Functionality – Decision Table
+- Bank Card Blocking Logic – Decision Table
+
+## 🎯 Purpose
+
+To develop structured thinking in testing and strengthen my QA skills.
+
+More testing artifacts will be added as I continue learning.
